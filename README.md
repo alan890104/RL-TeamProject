@@ -7,7 +7,7 @@ RL TeamProject
 ![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
 
 ## Author
-Team10: 徐煜倫 鍾承佑 柯秉志
+Team11: 徐煜倫 鍾承佑 柯秉志
 
 ## Setup
 :::warning
@@ -18,5 +18,9 @@ Please make sure your python version>=3.6, and your gpu support cuda.
 3. pip install gym[all]
 4. pip install scipy
 5. Run your code by typing **python "IQN(gpu).py"**
+
+
+## Reference
+Will Dabney, Georg Ostrovski, David Silver, Rémi Munos. (2018). Implicit Quantile Networks for Distributional Reinforcement Learning. Proceedings of the 35th International Conference on Machine Learning, PMLR 80:1096-1105
 
 ###### tags: `RL` `IQN` `Implicit quantile network`
