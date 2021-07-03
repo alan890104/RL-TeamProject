@@ -1,17 +1,12 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
-
 RL TeamProject
 ===
 ![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
 ![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
-![chat](https://img.shields.io/discord/:serverId.svg)
 
-## Beginners Guide
+## Author
+Team10: 徐煜倫 鍾承佑 柯秉志
 
-**Setup**
+## Setup
 :::warning
 Please make sure your python version>=3.6, and your gpu support cuda.
 :::
