@@ -1,5 +1,8 @@
 RL TeamProject
 ===
+
+
+[![hackmd-github-sync-badge](https://hackmd.io/6HVtjrXtRc6hJe0PQnQmPQ/badge)](https://hackmd.io/6HVtjrXtRc6hJe0PQnQmPQ)
 ![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
 ![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
 
