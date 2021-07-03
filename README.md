@@ -9,23 +9,16 @@ RL TeamProject
 ![build](https://img.shields.io/appveyor/ci/:user/:repo.svg)
 ![chat](https://img.shields.io/discord/:serverId.svg)
 
-## Table of Contents
-
-[TOC]
-
 ## Beginners Guide
 
-If you are a total beginner to this, start here!
-
-1. Visit hackmd.io
-2. Click "Sign in"
-3. Choose a way to sign in
-4. Start writing note!
-
-## Appendix and FAQ
-
-:::info
-**Find this document incomplete?** Leave a comment!
+**Setup**
+:::warning
+Please make sure your python version>=3.6, and your gpu support cuda.
 :::
+1. Install [pytorch](https://pytorch.org/get-started/locally/)
+2. Install corresponding [cuda version](https://developer.nvidia.com/cuda-toolkit-archive)
+3. pip install gym[all]
+4. pip install scipy
+5. Run your code by typing **python "IQN(gpu).py"**
 
-###### tags: `Templates` `Documentation`
+###### tags: `RL` `IQN` `Implicit quantile network`
